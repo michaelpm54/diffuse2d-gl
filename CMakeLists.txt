@@ -25,7 +25,6 @@ add_executable(${EXE}
 	src/gl_util.cpp
 	src/gl_util.h
 	src/main.cpp
-	src/output.txt
 	src/render_component.cpp
 	src/render_component.h
 	src/renderer.cpp
